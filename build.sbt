@@ -4,7 +4,7 @@ import macroRevolver._
 
 lazy val baseSettings = Seq(
   organization := "com.bumnetworks",
-  version := "0.0.1",
+  version := "0.0.1-JOBCASE-1",
   scalaVersion := "2.11.8",
   initialCommands := """
     import numerato._
